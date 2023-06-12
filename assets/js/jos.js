@@ -1,11 +1,10 @@
 /*!
 =========================================================
-* JohnDoe Landing page
+* Joseph Tetteh
 =========================================================
 
-* Copyright: 2019 DevCRUD (https://devcrud.com)
-* Licensed: (https://devcrud.com/licenses)
-* Coded by www.devcrud.com
+* Copyright: 2023
+* 
 
 =========================================================
 
